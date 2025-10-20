@@ -1,4 +1,4 @@
-# WordPress Block Theme - Production-Ready Showcase
+# Halloween Theme - Production-Ready Showcase
 
 A modern WordPress block theme demonstrating advanced full-site editing, custom Gutenberg blocks, and performance-optimized styling.
 
